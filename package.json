@@ -1,0 +1,14 @@
+{
+  "name": "tfitter",
+  "version": "0.0.1",
+  "description": "Dunyanin Sosyal Medya Uygulamasi",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tugce, Faruk",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
+
